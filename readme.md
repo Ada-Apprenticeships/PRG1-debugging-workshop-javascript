@@ -5,7 +5,7 @@
 In this codespace, you should have the following applications installed:
 
 1. `node`. This is the JavaScript runtime we'll use to execute the JavaScript programs in this workshop. Check node is installed by running `node --version` in your terminal and check this command returns the current node version.
-1. `eslint` This is a static analysis tool for checking syntax and issues in your code. Check eslint is installed by running `eslint --version` in your terminal and check this command returns the current eslint version.
+1. `eslint` This is a static analysis tool for checking syntax and issues in your code. Check eslint is installed by running `eslint --version` in your terminal and check this command returns the current eslint version. If eslint is not installed, you can install it with ```npm install -g eslint```
 
 ## Background
 
